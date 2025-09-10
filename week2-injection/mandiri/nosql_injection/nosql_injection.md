@@ -1,4 +1,4 @@
-# Juice-Shop Write-up: Login Admin
+# Pico-CTF Write-up: NoSQL Injection
 
 ## Challenge Overview
 
@@ -75,6 +75,7 @@ dan setelah kita send payload tersebut kita berhasil masuk
 akan tetapi kita harus mencari flagnya, kita perhatikan di response di json token terdapat base64 yang bisa di decode dan menhasilkan `picoCTF{jBhD2y7XoNzPv_1YxS9Ew5qL0uI6pasql_injection_67b1a3c8}`
 
 <img width="1200" height="637" alt="Screenshot 2025-09-10 225827" src="https://github.com/user-attachments/assets/2b9ef247-f80b-45aa-b838-370b8e2f2468" />
+
 
 
 
