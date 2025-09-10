@@ -68,6 +68,9 @@ Sebelum melakukan serangan SQL Injection, kita perlu mencari tahu email address 
 Setelah mendapatkan email target, saatnya melakukan serangan SQL Injection untuk bypass autentikasi.
 
 **💉 Payload yang Digunakan:**
+
+![Attack](https://github.com/user-attachments/assets/355526bf-5aa9-455b-b6d8-8133136f4ad6)
+
 ```sql
 bender@juice-sh.op' --
 ```
@@ -95,6 +98,8 @@ bender@juice-sh.op' --
 ## 🎉 Hasil Serangan
 
 ### ✅ Berhasil Login sebagai Bender!
+
+![Success](https://github.com/user-attachments/assets/414882f8-bc86-4425-a955-8aefb28aa143)
 
 Dengan menggunakan payload SQL Injection yang tepat, kita berhasil:
 - 🔓 Bypass mekanisme autentikasi
